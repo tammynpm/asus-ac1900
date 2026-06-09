@@ -4,6 +4,9 @@ tags: []
 draft: true
 date: 2026-06-09
 ---
+# Reverse engineering Asus RT-AC1900 firmware
+
+
 after the extraction, we have 2 files
 ![[Pasted image 20260609013123.png]]
 
