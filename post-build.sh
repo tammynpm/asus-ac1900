@@ -1,4 +1,5 @@
 #!/bin/sh
+# assisted by claude 
 TARGET=$1
 rm -f $TARGET/lib/libc.so.0
 rm -f $TARGET/lib/ld-uClibc.so.0
